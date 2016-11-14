@@ -1,3 +1,4 @@
+// Test Counter Directive
 describe('Directive Test', function() {
 	browser.get('http://localhost:8080');
 
